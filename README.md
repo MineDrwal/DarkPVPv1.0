@@ -1,4 +1,4 @@
-# Witaj na DarkPVP v1.6
+# Witaj na DarkPVP v1.0
 
 ***
 
